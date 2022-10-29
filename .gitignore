@@ -1,2 +1,6 @@
 **/vx.json
 vx_notebook/
+**/_gsdata_/
+*._gs
+*.gsl
+
